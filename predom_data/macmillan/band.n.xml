@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HOMOGRAPH ID="band" idm_id="000002772">
+<HEAD>
+<H_S1>
+<MAINENTRY second-colour="yes">
+<BASE>band</BASE>
+<INFLX iform="plural">bands</INFLX>
+</MAINENTRY>
+<HOMO-NUM>1</HOMO-NUM>
+<STARS> ★★★</STARS>
+</H_S1>
+<H_S2>
+<PART-OF-SPEECH>noun</PART-OF-SPEECH>
+<SYNTAX-CODING>
+<SEP> [</SEP>countable<SEP>]</SEP>
+</SYNTAX-CODING>
+<PRONS> <audio type="pronunciation" region="us" caption="American English pronunciation: band">
+<source type="audio/mpeg" src="https://www.macmillandictionary.com/media/american/us_pron/b/ban/band_/band_American_English_pronunciation_13170.mp3"/>
+<source type="audio/ogg" src="https://www.macmillandictionary.com/media/american/us_pron_ogg/b/ban/band_/band_American_English_pronunciation_13170.ogg"/>
+</audio>
+<PRON>
+<SEP> /</SEP>bænd<SEP>/</SEP>
+</PRON> </PRONS>
+<IBOX>
+<IBOX-HEAD>Inflections</IBOX-HEAD>
+<INFLECTION-GROUP>
+<INFLECTION>
+<INFLECTION-TYPE>singular</INFLECTION-TYPE>
+<INFLECTION-ENTRY>band</INFLECTION-ENTRY>
+</INFLECTION>
+<INFLECTION>
+<INFLECTION-TYPE>plural</INFLECTION-TYPE>
+<INFLECTION-ENTRY>bands</INFLECTION-ENTRY>
+</INFLECTION>
+</INFLECTION-GROUP>
+</IBOX>
+</H_S2>
+</HEAD>
+<HEAD-INFO>
+<HEAD-INFO1>
+<MENU>
+<MENU-HEAD>Menu</MENU-HEAD>
+<table>
+<tbody>
+<tr>
+<td>
+<p class="MENU-SENSE">
+<a>
+<Ref dictionary="american" entryId="band" bookmark="band_4">1</Ref>
+</a>
+</p>
+</td>
+<td>
+<p>group of musicians</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="MENU-SENSE">
+<a>
+<Ref dictionary="american" entryId="band" bookmark="band_8">2</Ref>
+</a>
+</p>
+</td>
+<td>
+<p>group of same type</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="MENU-SENSE">
+<a>
+<Ref dictionary="american" entryId="band" bookmark="band_12">3</Ref>
+</a>
+</p>
+</td>
+<td>
+<p>range of values/levels</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="MENU-SENSE">
+<a>
+<Ref dictionary="american" entryId="band" bookmark="band_14">4</Ref>
+</a>
+</p>
+</td>
+<td>
+<p>narrow circular object</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="MENU-SENSE">
+<a>
+<Ref dictionary="american" entryId="band" bookmark="band_18">5</Ref>
+</a>
+</p>
+</td>
+<td>
+<p>line of color/light/rain</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="MENU-SENSE">
+<a>
+<Ref dictionary="american" entryId="band" bookmark="band_22">6</Ref>
+</a>
+</p>
+</td>
+<td>
+<p>ring you wear on finger</p>
+</td>
+</tr>
+</tbody>
+</table>
+</MENU>
+</HEAD-INFO1>
+</HEAD-INFO>
+<SENSE ID="band_4">
+<SENSE-NUM>1</SENSE-NUM>
+<SENSE-CONTENT>
+<SUBJECT-AREA>music</SUBJECT-AREA>
+<DEFINITION> a small group of musicians who play popular music such as jazz or rock</DEFINITION>
+<EXAMPLES>
+<EXAMPLE>a rock and roll band</EXAMPLE>
+</EXAMPLES>
+<TXREF txtitle="Groups of musicians or singers: " topic="band_4" thesaurus="american">
+<Ref dictionary="american" entryId="band" bookmark="band_4">band</Ref>, <Ref dictionary="american" entryId="boy-band" bookmark="boy-band_4">boy band</Ref>, <Ref dictionary="american" entryId="brass-band" bookmark="brass-band_4">brass band</Ref>, <Ref dictionary="american" entryId="chamber-orchestra" bookmark="chamber-orchestra_4">chamber orchestra</Ref>, <Ref dictionary="american" entryId="combo" bookmark="combo_4">combo</Ref>, <Ref dictionary="american" entryId="consort_5" bookmark="consort_10">consort</Ref>, <Ref dictionary="american" entryId="dance-band" bookmark="dance-band_4">dance band</Ref>, <Ref dictionary="american" entryId="ensemble" bookmark="ensemble_4">ensemble</Ref>, <Ref dictionary="american" entryId="gamelan" bookmark="gamelan_4">gamelan</Ref>, <Ref dictionary="american" entryId="girl-band" bookmark="girl-band_4">girl band</Ref>
+</TXREF>
+<SUB-SENSE ID="band_6">
+<SENSE-NUM>a<SEP>.</SEP>
+</SENSE-NUM>
+<SUB-SENSE-CONTENT>
+<DEFINITION>a large group of musicians who play instruments such as <NDV>trumpets</NDV> and drums</DEFINITION>
+<EXAMPLES>
+<EXAMPLE>a military band</EXAMPLE>
+</EXAMPLES>
+<TXREF txtitle="Groups of musicians or singers: " topic="band_6" thesaurus="american">
+<Ref dictionary="american" entryId="band" bookmark="band_4">band</Ref>, <Ref dictionary="american" entryId="boy-band" bookmark="boy-band_4">boy band</Ref>, <Ref dictionary="american" entryId="brass-band" bookmark="brass-band_4">brass band</Ref>, <Ref dictionary="american" entryId="chamber-orchestra" bookmark="chamber-orchestra_4">chamber orchestra</Ref>, <Ref dictionary="american" entryId="combo" bookmark="combo_4">combo</Ref>, <Ref dictionary="american" entryId="consort_5" bookmark="consort_10">consort</Ref>, <Ref dictionary="american" entryId="dance-band" bookmark="dance-band_4">dance band</Ref>, <Ref dictionary="american" entryId="ensemble" bookmark="ensemble_4">ensemble</Ref>, <Ref dictionary="american" entryId="gamelan" bookmark="gamelan_4">gamelan</Ref>, <Ref dictionary="american" entryId="girl-band" bookmark="girl-band_4">girl band</Ref>
+</TXREF>
+</SUB-SENSE-CONTENT>
+</SUB-SENSE>
+</SENSE-CONTENT>
+</SENSE>
+<SENSE ID="band_8">
+<SENSE-NUM>2</SENSE-NUM>
+<SENSE-CONTENT>
+<DEFINITION>a group of people who do something together or who share a particular feature or interest</DEFINITION>
+<EXAMPLES>
+<PATTERNS-COLLOCATIONS>band of<SEP>: </SEP>
+</PATTERNS-COLLOCATIONS>
+<EXAMPLE>a band of warriors</EXAMPLE>
+</EXAMPLES>
+<EXAMPLES>
+<EXAMPLE>a growing band of enthusiasts</EXAMPLE>
+</EXAMPLES>
+<EXAMPLES>
+<EXAMPLE>It's one of the dwindling band of independent car-makers.</EXAMPLE>
+</EXAMPLES>
+<TXREF txtitle="Groups of people with shared interests or aims: " topic="band_8" thesaurus="american">
+<Ref dictionary="american" entryId="flash-mob" bookmark="flash-mob_3">flash mob</Ref>, <Ref dictionary="american" entryId="flash-mob_4" bookmark="flash-mobbing">flash mobbing</Ref>, <Ref dictionary="american" entryId="police" bookmark="police_8">police</Ref>, <Ref dictionary="american" entryId="association" bookmark="association_4">association</Ref>, <Ref dictionary="american" entryId="commission" bookmark="commission_6">commission</Ref>, <Ref dictionary="american" entryId="organization" bookmark="organization_5">organization</Ref>, <Ref dictionary="american" entryId="club" bookmark="club_4">club</Ref>, <Ref dictionary="american" entryId="panel" bookmark="panel_10">panel</Ref>, <Ref dictionary="american" entryId="support-group" bookmark="support-group_4">support group</Ref>
+</TXREF>
+</SENSE-CONTENT>
+</SENSE>
+<SENSE ID="band_12">
+<SENSE-NUM>3</SENSE-NUM>
+<SENSE-CONTENT>
+<DEFINITION>a range of values, prices, ages, etc. in a system used for measuring or grouping people or things</DEFINITION>
+<EXAMPLES>
+<EXAMPLE>The ruble was trading within a band of 4,000 to 4,500 to the dollar.</EXAMPLE>
+</EXAMPLES>
+<TXREF txtitle="Limits, controls and ranges: " topic="band_12" thesaurus="american">
+<Ref dictionary="american" entryId="limit" bookmark="limit_11">limit</Ref>, <Ref dictionary="american" entryId="constraint" bookmark="constraint_4">constraint</Ref>, <Ref dictionary="american" entryId="restriction" bookmark="restriction_4">restriction</Ref>, <Ref dictionary="american" entryId="limitation" bookmark="limitation_4">limitation</Ref>, <Ref dictionary="american" entryId="range" bookmark="range_16">range</Ref>, <Ref dictionary="american" entryId="check_37" bookmark="check_56">check</Ref>, <Ref dictionary="american" entryId="restraint" bookmark="restraint_6">restraint</Ref>, <Ref dictionary="american" entryId="confines" bookmark="confines_5">confines</Ref>, <Ref dictionary="american" entryId="control" bookmark="control_16">control</Ref>, <Ref dictionary="american" entryId="boundary" bookmark="boundary_9">boundary</Ref>
+</TXREF>
+</SENSE-CONTENT>
+</SENSE>
+<SENSE ID="band_14">
+<SENSE-NUM>4</SENSE-NUM>
+<SENSE-CONTENT>
+<DEFINITION>a flat narrow piece of cloth with the ends joined together to form a circle</DEFINITION>
+<EXAMPLES>
+<EXAMPLE>She wore a band around her hair.</EXAMPLE>
+</EXAMPLES>
+<EXAMPLES>
+<EXAMPLE>a hat band</EXAMPLE>
+</EXAMPLES>
+<TXREF txtitle="Rounded and circular shapes: " topic="band_14" thesaurus="american">
+<Ref dictionary="american" entryId="ball" bookmark="ball_7">ball</Ref>, <Ref dictionary="american" entryId="balloon" bookmark="balloon_7">balloon</Ref>, <Ref dictionary="american" entryId="band" bookmark="band_14">band</Ref>, <Ref dictionary="american" entryId="bowl" bookmark="bowl_11">bowl</Ref>, <Ref dictionary="american" entryId="bubble" bookmark="bubble_4">bubble</Ref>, <Ref dictionary="american" entryId="bulge" bookmark="bulge_4">bulge</Ref>, <Ref dictionary="american" entryId="circle" bookmark="circle_4">circle</Ref>, <Ref dictionary="american" entryId="coil" bookmark="coil_4">coil</Ref>, <Ref dictionary="american" entryId="cone" bookmark="cone_4">cone</Ref>, <Ref dictionary="american" entryId="crescent" bookmark="crescent_4">crescent</Ref>
+</TXREF>
+<SUB-SENSE ID="band_17">
+<SENSE-NUM>a<SEP>.</SEP>
+</SENSE-NUM>
+<SUB-SENSE-CONTENT>
+<DEFINITION>a narrow circular piece of rubber or metal, often placed around something to support it</DEFINITION>
+<TXREF txtitle="Rounded and circular shapes: " topic="band_17" thesaurus="american">
+<Ref dictionary="american" entryId="ball" bookmark="ball_7">ball</Ref>, <Ref dictionary="american" entryId="balloon" bookmark="balloon_7">balloon</Ref>, <Ref dictionary="american" entryId="band" bookmark="band_14">band</Ref>, <Ref dictionary="american" entryId="bowl" bookmark="bowl_11">bowl</Ref>, <Ref dictionary="american" entryId="bubble" bookmark="bubble_4">bubble</Ref>, <Ref dictionary="american" entryId="bulge" bookmark="bulge_4">bulge</Ref>, <Ref dictionary="american" entryId="circle" bookmark="circle_4">circle</Ref>, <Ref dictionary="american" entryId="coil" bookmark="coil_4">coil</Ref>, <Ref dictionary="american" entryId="cone" bookmark="cone_4">cone</Ref>, <Ref dictionary="american" entryId="crescent" bookmark="crescent_4">crescent</Ref>
+</TXREF>
+</SUB-SENSE-CONTENT>
+</SUB-SENSE>
+</SENSE-CONTENT>
+</SENSE>
+<SENSE ID="band_18">
+<SENSE-NUM>5</SENSE-NUM>
+<SENSE-CONTENT>
+<DEFINITION>a line of something such as color or light</DEFINITION>
+<EXAMPLES>
+<EXAMPLE>The male bird has a brown band across its chest.</EXAMPLE>
+</EXAMPLES>
+<TXREF txtitle="Areas and amounts of color or shine: " topic="band_18" thesaurus="american">
+<Ref dictionary="american" entryId="band" bookmark="band_18">band</Ref>, <Ref dictionary="american" entryId="blaze_19" bookmark="blaze_23">blaze</Ref>, <Ref dictionary="american" entryId="discoloration" bookmark="discoloration_5">discoloration</Ref>, <Ref dictionary="american" entryId="dot" bookmark="dot_4">dot</Ref>, <Ref dictionary="american" entryId="fleck" bookmark="fleck_4">fleck</Ref>, <Ref dictionary="american" entryId="patina" bookmark="patina_4">patina</Ref>, <Ref dictionary="american" entryId="point" bookmark="point_36">point</Ref>, <Ref dictionary="american" entryId="shading" bookmark="shading_4">shading</Ref>, <Ref dictionary="american" entryId="speck" bookmark="speck_4">speck</Ref>, <Ref dictionary="american" entryId="splash_18" bookmark="splash_27">splash</Ref>
+</TXREF>
+<SUB-SENSE ID="band_20">
+<SENSE-NUM>a<SEP>.</SEP>
+</SENSE-NUM>
+<SUB-SENSE-CONTENT>
+<DEFINITION>a narrow area of rain that passes over a place</DEFINITION>
+<EXAMPLES>
+<EXAMPLE>We can expect another band of showers in the afternoon.</EXAMPLE>
+</EXAMPLES>
+<TXREF txtitle="Rain, snow and sleet: " topic="band_20" thesaurus="american">
+<Ref dictionary="american" entryId="acid-rain" bookmark="acid-rain_3">acid rain</Ref>, <Ref dictionary="american" entryId="avalanche" bookmark="avalanche_4">avalanche</Ref>, <Ref dictionary="american" entryId="band" bookmark="band_20">band</Ref>, <Ref dictionary="american" entryId="blizzard" bookmark="blizzard_4">blizzard</Ref>, <Ref dictionary="american" entryId="cloudburst" bookmark="cloudburst_4">cloudburst</Ref>, <Ref dictionary="american" entryId="curtain" bookmark="curtain_12">curtain</Ref>, <Ref dictionary="american" entryId="deluge" bookmark="deluge_5">deluge</Ref>, <Ref dictionary="american" entryId="dew" bookmark="dew_3">dew</Ref>, <Ref dictionary="american" entryId="dewdrop" bookmark="dewdrop_4">dewdrop</Ref>, <Ref dictionary="american" entryId="downpour" bookmark="downpour_4">downpour</Ref>
+</TXREF>
+</SUB-SENSE-CONTENT>
+</SUB-SENSE>
+</SENSE-CONTENT>
+</SENSE>
+<SENSE ID="band_22">
+<SENSE-NUM>6</SENSE-NUM>
+<SENSE-CONTENT>
+<STYLE-LEVEL>literary</STYLE-LEVEL>
+<DEFINITION> a ring that you wear on your finger, especially a <HW>
+<Ref dictionary="american" entryId="wedding-ring">wedding ring</Ref>. A ring that people in most countries wear on their left hand to show that they are married
+</HW>
+</DEFINITION>
+<TXREF txtitle="Types of jewellery: " topic="band_22" thesaurus="american">
+<Ref dictionary="american" entryId="anklet" bookmark="anklet_4">anklet</Ref>, <Ref dictionary="american" entryId="band" bookmark="band_22">band</Ref>, <Ref dictionary="american" entryId="bangle" bookmark="bangle_4">bangle</Ref>, <Ref dictionary="american" entryId="bracelet" bookmark="bracelet_4">bracelet</Ref>, <Ref dictionary="american" entryId="brooch" bookmark="brooch_4">brooch</Ref>, <Ref dictionary="american" entryId="cameo" bookmark="cameo_6">cameo</Ref>, <Ref dictionary="american" entryId="choker" bookmark="choker_4">choker</Ref>, <Ref dictionary="american" entryId="circlet" bookmark="circlet_4">circlet</Ref>, <Ref dictionary="american" entryId="clip_21" bookmark="clip_33">clip</Ref>, <Ref dictionary="american" entryId="costume-jewelry" bookmark="costume-jewelry_3">costume jewelry</Ref>
+</TXREF>
+</SENSE-CONTENT>
+</SENSE>
+</HOMOGRAPH>
