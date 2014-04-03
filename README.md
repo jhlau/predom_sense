@@ -1,6 +1,5 @@
 This package contains scripts and python tools for learning predominant 
-sense, detecting unattested and novel senses using HDP, a hierarchical 
-topic model.
+sense using HDP, a hierarchical topic model.
 
 Directory Structure and Files
 =============================
